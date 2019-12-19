@@ -2,5 +2,3 @@ pyjwt
 flask
 gunicorn
 pytest
-curl
-git
